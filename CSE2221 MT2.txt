@@ -1,7 +1,0 @@
-Recursion on XML tree will be on midterm
-OOP 
-	Inheritance
-	Extention
-	Implements
-	Polymorphism
-Testing - philosophy/ concepts
